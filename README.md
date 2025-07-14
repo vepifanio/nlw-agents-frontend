@@ -6,7 +6,7 @@ Projeto desenvolvido durante um evento da Rocketseat.
 - **React** 19 com **TypeScript**
 - **Vite** para build e servidor de desenvolvimento
 - **Tailwind CSS** para estilização
-- **Radix UI** e componentes reutilizáveis
+- **Shadcn/ui** e componentes reutilizáveis
 - **TanStack React Query** para dados assíncronos
 - **React Hook Form** com **Zod** para formulários
 - **React Router DOM** para navegação
